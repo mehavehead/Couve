@@ -2711,14 +2711,6 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
 :root .avatarWrapper-1B9FTW .avatarSpeaking-36V2PN {
   border-radius: var(--avatar-radius);
 }
-:root .streamPreview-I7itZ6 {
-  background: var(--background-secondary);
-  width: 330px;
-}
-:root .streamPreview-I7itZ6 .previewContainer-35LFgt {
-  background: var(--background-secondary);
-  height: 200px;
-}
 :root .tooltip-14MtrL {
   background: var(--background-secondary-alt);
 }
